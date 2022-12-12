@@ -5,7 +5,7 @@
 A repository containing all files for a Module 1 Challenge.
 
 It has been deployed online, and you can find it here:
-
+https://jangorski95.github.io/module1challenge/
 
 
 
